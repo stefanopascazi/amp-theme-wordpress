@@ -1,0 +1,27 @@
+/*!
+Theme Name: Amp Theme
+Theme URI: http://www.stefanopascazi.com/amp-theme-per-wordpress/
+Author: Stefano Pascazi
+Author URI: http://www.stefanopascazi.com
+Description: Theme create with amp framework. Remove all wordpress default attribute. This tempalte is only for Develper use. Design and function are custom. No other framework is used
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: amp-theme
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Amp Theme is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+
+/* Questo file è al solo scopo di riconoscimento template in Wordpress e non deve in alcun modo essere utilizzato ne tanto meno
+ * linkato all'interno del documento
+ * Per scrivere il tuo CSS, devi compilare il file amp.css in /inc/amp.css.php
+ * Scrivendo il tuo codice all'interno della funzione add_custom_amp_css() e dentro il tag style amp-custom
+ */

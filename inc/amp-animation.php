@@ -1,0 +1,2 @@
+<?php // AMP animation function
+?>
